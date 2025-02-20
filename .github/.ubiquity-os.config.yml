@@ -5,12 +5,7 @@ plugins:
       with:
         labels:
           time:
-            - name: "Time: <7.5 Minutes"          
-            - name: "Time: <1 Hour"
-            - name: "Time: <2 Hours"
-            - name: "Time: <4 Hours"
-            - name: "Time: <1 Day"
-            - name: "Time: <1 Week"
+            - name: "Time: <7.5 Minutes"
           priority:
             - name: "Priority: 1 (Normal)"
             - name: "Priority: 2 (Medium)"
