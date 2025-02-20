@@ -3,4 +3,4 @@ plugins:
     - plugin: https://ubiquity-os-daemon-pricing-fix-label-generation.fernand-veyrier.workers.dev
       skipBotEvents: false
       with:
-        basePriceMultiplier: 1
+        basePriceMultiplier: 2
