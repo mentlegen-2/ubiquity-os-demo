@@ -5,7 +5,7 @@ plugins:
       with:
         labels:
           time:
-            - name: "Time: <7.5 Minutes"
+            - name: "Time: <7.7 Minutes"
           priority:
             - name: "Priority: 1 (Normal)"
             - name: "Priority: 2 (Medium)"
