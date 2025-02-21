@@ -8,6 +8,7 @@ plugins:
           time:
             - name: "Time: <7.7 Minutes"
             - name: "Time: <27.7 Minutes"
+            - name: "Time: <1 Hour"            
           priority:
             - name: "Priority: 1 (Normal)"
             - name: "Priority: 2 (Medium)"
