@@ -1,6 +1,7 @@
 plugins:
   - uses:
-    - plugin: https://ubiquity-os-daemon-pricing-fix-label-generation.fernand-veyrier.workers.dev
+    # - plugin: https://ubiquity-os-daemon-pricing-fix-label-generation.fernand-veyrier.workers.dev
+    - plugin: https://comic-bee-miserably.ngrok-free.app 
       skipBotEvents: false
       with:
         labels:
