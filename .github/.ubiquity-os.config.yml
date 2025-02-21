@@ -21,4 +21,5 @@ plugins:
             - price
             - time
             - priority
-        globalConfigUpdate: {}
+        globalConfigUpdate:
+          excludeRepos: []
