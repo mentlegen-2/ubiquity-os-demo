@@ -21,3 +21,4 @@ plugins:
             - price
             - time
             - priority
+        globalLabelUpdate: {}
